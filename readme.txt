@@ -1,2 +1,2 @@
 git learn demo
-Creating a new branch is quick AND simple.222
+Creating a new branch is quick AND simple.2
